@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1640081452 source:t:\codeblocks\splitwise expense sharing\main.cpp
+	<iostream>
+	"Users.h"
+	"Transaction.h"
+	"Splitwise.h"
+
+1640079828 t:\codeblocks\splitwise expense sharing\include\users.h
+	<vector>
+	<string>
+
+1640082650 t:\codeblocks\splitwise expense sharing\include\transaction.h
+	"Users.h"
+
+1640080830 t:\codeblocks\splitwise expense sharing\include\splitwise.h
+	"Users.h"
+	"Transaction.h"
+
