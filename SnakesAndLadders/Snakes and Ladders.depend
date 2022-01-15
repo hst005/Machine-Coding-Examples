@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1640016244 source:t:\codeblocks\snakes and ladders\main.cpp
+	<iostream>
+	"Ladder.h"
+	"Player.h"
+	"Snakes.h"
+	"GameSession.h"
+
+1639949588 t:\codeblocks\snakes and ladders\include\ladder.h
+
+1639950986 t:\codeblocks\snakes and ladders\include\player.h
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1639949588 t:\codeblocks\snakes and ladders\include\snakes.h
+	<string>
+
+1640022359 t:\codeblocks\snakes and ladders\include\gamesession.h
+	<vector>
+
